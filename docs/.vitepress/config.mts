@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/Formida/',
   title: "Formida Project",
   description: "An Index For You're Love in Technology",
   themeConfig: {
@@ -41,4 +42,5 @@ export default defineConfig({
       
     }
   }
-})
+}
+)
