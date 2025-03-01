@@ -1,19 +1,20 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
+
 layout: home
 
 hero:
   name: "Formida-Project"
   tagline: An Index for those who love tinkering and torturing themselves with problems.
   image:
-    src: /test.png
+    src: /test2.png
     alt: TFP Icon
   actions:
     - theme: brand
       text: Beginning Guide
       link: /Begining
     - theme: alt
-      text: API Examples
+      text: Honorable Mentions
       link: /api-examples
     
 
