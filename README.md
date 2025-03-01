@@ -1,22 +1,39 @@
-# What in the..
-
-Now what's this?
-
-its THE project by tarf and thanks to those who've made this possible.
-
-# Introducing Formida
-
-An Index full of useful things that only a person who wants to take advantage of their things they own. would use.
-
-From helping you in stuff related to PS4 homebrew to running custom roms on your android.
-
-The list goes on and so will with time, Its always open to anyone who wants to edit and add new stuff to this, Report issues or add suggestions for to add.
-
-Also, If it wasn't obvious by now, Its my first every open-source project and so I'd appreciate people giving advice for this project to help it stand stronge for the future.
-
+# ⭐Introducing Formida
 
 ---
 
-This Readme is also being worked on and so, everything said here could change for improvement but the main idea and concept won't ever change.
+An Index full of useful things that only a person who wants to take advantage of their things and get the most out of it will find it awesome.
 
-All Hail Open Source!
+From helping you in things related to PS4 homebrew to running custom ROMs on your android.
+
+The list goes on and improve with time, It's open for everyone to review, suggest changes and report issues on the site.
+
+Also, If it wasn't obvious by now, It's my first ever Open-Source project, and so I'd appreciate anyone giving advice for this project for it to improve and be for everyone.
+
+## 💾Current Status 
+
+---
+
+This project is pretty much at it's bare bones, So don't expect everything to be filled out.\
+\
+Many guides and things will be coming slowly with time, But I do have to remind because it might become a problem in the future.
+
+## 📒Note 
+
+---
+
+Most of the posts will be published because of experience (By me ofc), That is because if you don't have any experience in the field you're going to write a guide about, then what's the point eh?\
+\
+But don't worry, As with time, This will change with efforts from contributors and so on, It's just a little caught, For those who couldn't find a topic they wanted the guide on, The main reason will most likely will be lack of experience or information on that.
+
+## 🤔What About Archival?
+
+---
+
+This project will be archived on a weekly basis because of the risk it's taking by providing guides to things that might harm copyright laws, this project does not encourage piracy, nor it ever will, It's an educational project, and it's providing everyone with the ease of testing things without wanting to cross the boundaries.
+
+## 👌That's about it
+
+---
+
+As it goes, I will try my best to update and provide accurate guides on things others are struggling or having problems with.
