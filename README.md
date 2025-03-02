@@ -30,9 +30,7 @@ This project will be archived on a weekly basis because of the risk it's taking 
 
 As it goes, I will try my best to update and provide accurate guides on things others are struggling or having problems with.
 
----
-
-# ❓FAQ
+## ❓FAQ
 
 #### Q1 - Why aren't there more supported languages?
 
