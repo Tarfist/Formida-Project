@@ -12,9 +12,10 @@ export default defineConfig({
     logo: '/test.png',
 
     nav: [
-      { text: 'Home', link: '/'},
-      { text: 'About Formida', link: '/about' }
-    ],
+      { text: 'Home', link: '/' },
+      { text: 'About Formida', link: '/About' },
+    ]
+    ,
 
     sidebar: [
       {
@@ -31,9 +32,10 @@ export default defineConfig({
         ]
       }
     ],
+    
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Tarfist/Formida-Project' }
     ],
 
     footer: {

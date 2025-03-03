@@ -4,7 +4,7 @@
 layout: home
 
 hero:
-  name: "Formida-Project"
+  name: "Formida Project"
   tagline: An Index for those who love tinkering and torturing themselves with problems.
   image:
     src: /test2.png
@@ -16,16 +16,16 @@ hero:
     - theme: alt
       text: Honorable Mentions
       link: /api-examples
-    
 
 features:
   - title: Approval By Tarf
+    outline: [2, 4]
     icon: "👌"
-    details: As for all pages, These are made and written by Tarf so yeah.
+    details: As for most pages, They are written and approved by Tarf himself.
   - title: Close to Open-Source
     icon: "🤞"
     details: Most of the things you'll see will be open source.
-  - title: Made in Vitepress
+  - title: Glory to Vitepress
     icon: "😎"
     details: This entire Index is made using Vitepress because of its ease.
 ---
