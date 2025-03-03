@@ -19,16 +19,38 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Complete Index',
+        text: '⭐ Formida Index',
         items: [
           { text: 'Begining Guide', link: '/Begining' },
+          { text: 'About Formida', link: '/About' },
         ]
       },
 
       {
-        text: 'Other',
+        text: '🕹️ Console Specific',
         items: [
-          { text: 'About Formida', link: '/About' },
+          { text: 'Playstation 4', link: '/Beginning' },
+          { text: 'Playstation 3', link: '/Beginning' },
+          { text: 'Switch', link: '/Beginning' },
+          { text: 'Xbox 360', link: '/Beginning' },
+          { text: 'Xbox One', link: '/Beginning' },
+        ]
+      },
+
+      {
+        text: '🎮 Gaming Specific',
+        items: [
+          { text: 'Minecraft Legacy', link: '/Beginning' },
+          { text: 'Minecraft Bedrock', link: '/Beginning' },
+          { text: 'Roblox', link: '/Beginning' },
+          { text: 'Among Us', link: '/Beginning' },
+        ]
+      },
+
+      {
+        text: '⚠️ Other Specific',
+        items: [
+          { text: 'Precautions', link: '/' },
         ]
       }
     ],
@@ -40,7 +62,7 @@ export default defineConfig({
 
     footer: {
       message: 'Made with ❤️ by Tarf',
-      copyright: '© 2025'
+      copyright: 'GNU License © 2025'
       
     }
   }

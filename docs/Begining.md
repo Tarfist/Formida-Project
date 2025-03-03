@@ -1,4 +1,4 @@
-# Hey there
+# 👋 Hey there
 
 Welcome to Formida-Project's Beginning Guide, I hope you find thids Index helpful and something you'd come back to for finding new things.
 
