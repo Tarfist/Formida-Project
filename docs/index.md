@@ -19,13 +19,13 @@ hero:
 
 features:
   - title: Approval By Tarf
-    outline: [2, 4]
     icon: "👌"
     details: As for most pages, They are written and approved by Tarf himself.
   - title: Close to Open-Source
     icon: "🤞"
     details: Most of the things you'll see will be open source.
   - title: Glory to Vitepress
+    link: https://vitepress.dev/
     icon: "😎"
     details: This entire Index is made using Vitepress because of its ease.
 ---

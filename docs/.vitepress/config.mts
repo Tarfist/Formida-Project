@@ -1,15 +1,26 @@
 import { defineConfig } from 'vitepress'
 
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/Formida-Project/',
   title: "Formida Project",
   description: "An Index For You're Love in Technology",
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
 
-    logo: '/test.png',
+  head: [
+    ['link', { rel: 'icon', href: 'public/favicon.png' }],
+  ],
+
+  themeConfig: {
+    
+
+      search: {
+        provider: 'local'
+      }
+    ,
+
+    logo: 'public/test.png',
+
+    
 
     nav: [
       { text: 'Home', link: '/' },
