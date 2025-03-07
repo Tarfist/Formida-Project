@@ -3,11 +3,16 @@
 
 :root {
   // Brand colors - adjust these to your preference
-  --vp-c-brand: hsl(2, 98%, 67%);
+  --vp-c-brand: #fd5e58;
   --vp-c-brand-light: #d64545;
   --vp-c-brand-lighter: #ff8d8d;
   --vp-c-brand-dark: #f25353;
   --vp-c-brand-darker: #cf5151;
+  --vp-c-brand-1: #ff6347;
+  --vp-c-brand1-light: #c0452f;
+  --vp-c-brand1-lighter: #ac3520;
+  --vp-c-brand1-dark: #cc5e4b;
+  --vp-c-brand1-darker: #ff6347;
 
   // Action button colors
   --vp-button-brand-bg: var(--vp-c-brand);
@@ -79,3 +84,4 @@
     }
   }
 }
+

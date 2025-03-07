@@ -9,5 +9,6 @@ We are just taking advantage of our devices, Thats all.
 ::: warning Regarding Pages
 Currently, All the pages you see within the sidebar are empty and do not head to anywhere.
 
-That is because these pages haven't been written, Thus they're going to be added once they have been finished.
+That is because this whole website is still in development, Not everything is final thus you have to wait.
+
 :::

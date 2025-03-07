@@ -14,4 +14,10 @@ They make the internet an amazing place, You should check them out and support t
 
 Frequnt updates are being made to this site, So don't worry about it being barebones.
 
-Soon, It'll look complete with finshed guides.
+Soon, It'll look complete with finshed guides and design.
+
+::: tip
+
+You should consider checking out this site's github repo at [here](https://github.com/Tarfist/Formida-Project) to see how it's doing and see whats new.
+
+:::

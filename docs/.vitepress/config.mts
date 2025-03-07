@@ -5,9 +5,10 @@ export default defineConfig({
   base: '/Formida-Project/',
   title: "Formida Project",
   description: "An Index For You're Love in Technology",
+  lastUpdated: true,
 
   head: [
-    ['link', { rel: 'icon', href: 'public/favicon.png' }],
+    ['link', { rel: 'icon', href: '/favicon.png' }],
   ],
 
   themeConfig: {
@@ -18,7 +19,7 @@ export default defineConfig({
       }
     ,
 
-    logo: 'public/test.png',
+    logo: '/test.png',
 
     
 
@@ -30,10 +31,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '⭐ Formida Index',
+        text: '📚 Formida Index', // Add emoji here
         items: [
-          { text: 'Begining Guide', link: '/Begining' },
-          { text: 'About Formida', link: '/About' },
+          { text: 'Begining Guide', link: '/Begining' }, // Add emoji here
+          { text: 'About Formida', link: '/About' }, // Add emoji here
         ]
       },
 
@@ -58,6 +59,15 @@ export default defineConfig({
         ]
       },
 
+
+      {
+        text: '📱 mobile Specific',
+        items: [
+          { text: 'Android Exploit', link: '/Beginning' },
+          { text: 'IOS Exploit', link: '/Beginning' },
+        ]
+      },
+
       {
         text: '⚠️ Other Specific',
         items: [
@@ -68,7 +78,10 @@ export default defineConfig({
     
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Tarfist/Formida-Project' }
+      { icon: 'github', link: 'https://github.com/Tarfist/Formida-Project' },
+      { icon: 'bluesky', link: 'https://twitter.com/Tarfisthttps://bsky.app/profile/tarfz.bsky.social' },
+      { icon: 'discord', link: 'https://discord.gg/9Qs9Ft ' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@tarfz' },
     ],
 
     footer: {
