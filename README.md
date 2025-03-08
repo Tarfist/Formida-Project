@@ -33,3 +33,12 @@ As it progresses, I will try my best to update and provide accurate guidance on 
 ## ❓FAQ
 
 #### Q1 - Why aren't there more supported languages?
+
+
+Well, Because this project has just started so yeah, It'll receive more translation.
+
+#### Q2 - How long will it take for "this" guide to come?
+
+If you believe that there isn't a guide you're looking for and notice that we haven't planned on making it, Then please suggest it at our GitHub discussion.
+
+More questions will be added once problems are found with the guides.
