@@ -1,4 +1,4 @@
-<img title="" src="https://pjrjxbdononaezaz.public.blob.vercel-storage.com/Group%20508-41at10zakeHK5PXjA6I4Brh2ViKUTO.png" alt="" data-align="center" width="972">.
+<img title="" src="https://pjrjxbdononaezaz.public.blob.vercel-storage.com/Group%20508-41at10zakeHK5PXjA6I4Brh2ViKUTO.png" alt="" data-align="center" width="972">
 
 # ⭐Introducing Formida
 
