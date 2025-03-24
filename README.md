@@ -2,37 +2,38 @@
 
 # ⭐Introducing Formida
 
-An Index full of useful things that only a person who wants to take advantage of their things and get the most out of it will find it awesome.
+An index full of useful things that only a person who wants to take advantage of their things and get the most out of them will find awesome.
 
-From helping you in things related to PS4 homebrew to running custom ROMs on your android.
+From helping you with things related to PS4 homebrew to running custom ROMs on your Android.
 
-The list goes on and improve with time, It's open for everyone to review, suggest changes and report issues on the site.
+The list improves over time and is open for review, suggestion, and issue reporting.
 
-Also, If it wasn't obvious by now, It's my first ever Open-Source project, and so I'd appreciate anyone giving advice for this project for it to improve and be for everyone.
+Also, if it wasn't obvious by now, it's my first open source project ever, and so I'd appreciate anyone giving advice on this project to improve it and make it work for everyone.
 
-## 💾Current Status
+## Current Status
 
-This project is pretty much at it's bare bones, So don't expect everything to be filled out.
+This project is pretty much in its infancy, so don't expect everything to be filled in.
 
-Many guides and things will be coming slowly with time, But I do have to remind because it might become a problem in the future.
+Many guides and things will come slowly with time, but I have to remind because it might become a problem in the future.
 
 ## 📒Note
 
-Most of the posts will be published because of experience (By me ofc), That is because if you don't have any experience in the field you're going to write a guide about, then what's the point eh?
+Most of the posts will be published because I have relevant experience. If you don't have experience writing about the field, there is no point.
 
-But don't worry, As with time, This will change with efforts from contributors and so on, It's just a little caught, For those who couldn't find a topic they wanted the guide on, The main reason will most likely will be lack of experience or information on that.
+Don't worry. As time goes on, this will change. It's just a heads-up for those who couldn't find a topic they liked. It's most likely due to a lack of experience or information.
 
-## 🤔What About Archival?
+## 🤔What about archiving?
 
-This project will be archived on a weekly basis because of the risk it's taking by providing guides to things that might harm copyright laws, this project does not encourage piracy, nor it ever will, It's an educational project, and it's providing everyone with the ease of testing things without wanting to cross the boundaries.
+This project will be archived weekly due to copyright concerns. It does not encourage piracy; it's educational and allows testing without crossing the line.
 
-## 👌That's about it
+## 👌That's about it.
 
-As it goes, I will try my best to update and provide accurate guides on things others are struggling or having problems with.
+As it progresses, I will try my best to update and provide accurate guidance on things that others are struggling with or having problems with.
 
 ## ❓FAQ
 
 #### Q1 - Why aren't there more supported languages?
+
 
 Well, Because this project has just started so yeah, It'll receive more translation.
 
