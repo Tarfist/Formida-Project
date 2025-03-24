@@ -15,17 +15,19 @@ hero:
       link: /Begining
     - theme: alt
       text: Honorable Mentions
-      link: /api-examples
+      link: /Honorable
 
 features:
   - title: Approval By Tarf
+    link: /About
     icon: "👌"
-    details: As for most pages, They are written and approved by Tarf himself.
-  - title: Close to Open-Source
-    icon: "🤞"
-    details: Most of the things you'll see will be open source.
+    details: As of now and forward, Everything will have to go through my approval before being here.
   - title: Glory to Vitepress
     link: https://vitepress.dev/
     icon: "😎"
     details: This entire Index is made using Vitepress because of its ease.
+  - title: Close to Open-Source
+    link: /Honorable
+    icon: "🤞"
+    details: Most of the things you'll see will are open source.
 ---

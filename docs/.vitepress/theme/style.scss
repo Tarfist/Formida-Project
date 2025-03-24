@@ -3,9 +3,9 @@
 
 :root {
   // Brand colors - adjust these to your preference
-  --vp-c-brand: #fd5e58;
+  --vp-c-brand: #f1504a;
   --vp-c-brand-light: #d64545;
-  --vp-c-brand-lighter: #ff8d8d;
+  --vp-c-brand-lighter: #e65757;
   --vp-c-brand-dark: #f25353;
   --vp-c-brand-darker: #cf5151;
   --vp-c-brand-1: #ff6347;
@@ -42,6 +42,8 @@
    --vp-sidebar-link-active-text-color: var(--vp-c-brand); // Text color of active item
 
 }
+
+
 
 // Dark mode enhancements
 .dark {
