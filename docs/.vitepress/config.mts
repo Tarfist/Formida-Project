@@ -16,7 +16,7 @@ export default defineConfig({
   ({ 
           // Fill in your repository URL here
           repoURL
-  : () => 'https://github.com/nolebase/integrations', 
+  : () => 'https://github.com/Tarfist/Formida-Project', 
         }), 
         GitChangelogMarkdownSection
   (), 
@@ -27,7 +27,20 @@ export default defineConfig({
   description: "An Index For You're Love in Technology",
   lastUpdated: true,
 
-  head: [['link', { rel: 'icon', href: '/Formida-Project/favicon.ico' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/Formida-Project/favicon.ico' }],
+    // OpenGraph tags for social media sharing
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'Formida Project' }],
+    ['meta', { property: 'og:description', content: "An Index For You're Love in Technology" }],
+    ['meta', { property: 'og:image', content: 'https://tarfist.github.io/Formida-Project/TheABX.png' }],
+    ['meta', { property: 'og:url', content: 'https://tarfist.github.io/Formida-Project/' }],
+    // Twitter Card tags
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Formida Project' }],
+    ['meta', { name: 'twitter:description', content: "An Index For You're Love in Technology" }],
+    ['meta', { name: 'twitter:image', content: 'https://tarfist.github.io/Formida-Project/TheABX.png' }],
+  ],
 
   themeConfig: {
     
@@ -98,7 +111,7 @@ export default defineConfig({
     
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Tarfist/Formida-Project' },
+      { icon: 'github', link: 'https://github.com/Tarfist' },
       { icon: 'bluesky', link: 'https://twitter.com/Tarfisthttps://bsky.app/profile/tarfz.bsky.social' },
       { icon: 'discord', link: 'https://discord.gg/9Qs9Ft ' },
       { icon: 'youtube', link: 'https://www.youtube.com/@tarfz' },

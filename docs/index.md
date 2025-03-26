@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Honorable Mentions
       link: /Honorable
+    - theme: alt
+      text: Github
+      link: 'https://github.com/Tarfist/Formida-Project'
 
 features:
   - title: Approval By Tarf
@@ -29,5 +32,5 @@ features:
   - title: Close to Open-Source
     link: /Honorable
     icon: "🤞"
-    details: Most of the things you'll see will are open source.
+    details: Most of the things you'll see are going to be open-source.
 ---
