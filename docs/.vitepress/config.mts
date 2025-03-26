@@ -32,6 +32,7 @@ export default defineConfig({
     // OpenGraph tags for social media sharing
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Formida Project' }],
+    ['meta', { name: 'theme-color', content: '#ff3f3f' }],
     ['meta', { property: 'og:description', content: "An Index For You're Love in Technology" }],
     ['meta', { property: 'og:image', content: 'https://tarfist.github.io/Formida-Project/TheABX.png' }],
     ['meta', { property: 'og:url', content: 'https://tarfist.github.io/Formida-Project/' }],
